@@ -1,0 +1,48 @@
+{
+    "Addimage": false,
+    "Images": {},
+    "Img": {},
+    "Slimit": 1,
+    "autoAdd": false,
+    "autoJoin": false,
+    "autoJoinTicket": false,
+    "autoLeave": true,
+    "autoRead": false,
+    "autoReject": false,
+    "changeGroupPicture": false,
+    "changePicture": false,
+    "foto": {},
+    "keyCommand": "",
+    "limit": 4,
+    "message": "ADD ME http://line.me/ti/p/~mashiro.ch4n",
+    "namecreator": "Shiro..",
+    "readMember": {
+        "c5547ba4f2a6b278fbd6bea6ee74dbc1a": {
+            "u1608ae21e5de2547b5fa8707b21ca220": true,
+            "u39e5d26bd5cab57c4093cb6dcd35e28a": true,
+            "u44c9c1d441dbc88158744b64fe8b6a0a": true,
+            "u472915401456cdd7049ffbe9df31a233": true
+        },
+        "cd698dab2d25b06799eac1ab2b0c46559": {
+            "u0203824b7570e6991d68fb5e925991b5": true,
+            "u22511b12489e1fca6d720b149345de2b": true,
+            "u2d437427d23364cfeda2fda5eb7a290f": true,
+            "u4bfe1fc23058ca91783b2a5816bdb1d9": true,
+            "u5e72157adfc8dc4a377ad3fdde8333de": true,
+            "u6775a51c7a2b7eec675549af5c933cae": true,
+            "u68a505599d3c891276abb8fbcb7c19e1": true,
+            "u92c51f52b9aedeb62347bb93e9c367b3": true,
+            "u9c7086cc010d6c5e4e271a47a28472dd": true,
+            "ud13c097dd18bc0dcafecc7acdaa925db": true,
+            "uf210ea4923bd12e40b88c1639dbb1630": true
+        }
+    },
+    "readPoint": {
+        "c5547ba4f2a6b278fbd6bea6ee74dbc1a": "9010628825681",
+        "cd698dab2d25b06799eac1ab2b0c46559": "10386324972154"
+    },
+    "restartBot": {},
+    "restartPoint": "cf1ada0b27db7f47d27b005c33fd32b4f",
+    "server": {},
+    "userAgent": {}
+}
