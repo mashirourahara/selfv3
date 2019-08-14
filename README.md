@@ -26,7 +26,7 @@ SHIRO Self.v.03A
 # $ sudo pip3 install wikipedia
 # $ sudo pip3 install tweepy
 # $ sudo pip3 install youtube_dl
-# $ git clone https://github.com/Zulfahmi-py3/Protect-SelfBot
+# $ git clone https://github.com/mashirourahara/selfv3.git
 # $ cd Protect-SelfBot
 # $ python pro-self.py
 
@@ -48,7 +48,7 @@ SHIRO Self.v.03A
 # $ pip3 install wikipedia
 # $ pip3 install youtube_dl
 # $ pip3 install tweepy
-# $ git clone https://github.com/mashirourahara/selfv3
+# $ git clone https://github.com/mashirourahara/selfv3.git
 # $ cd Protect-SelfBot
 # $ python3 pro-self.py
 
