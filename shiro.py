@@ -134,7 +134,7 @@ cctv = {
 
 with open('mashiro.json', 'r') as fp:
     creator = json.load(fp)
-with open('owner.json', 'r') as fp:
+with open('shirobot.json', 'r') as fp:
     owner = json.load(fp)
 with open('admin.json', 'r') as fp:
     admin = json.load(fp)      
