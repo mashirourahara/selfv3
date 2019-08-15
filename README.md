@@ -54,7 +54,7 @@ SHIRO Self.v.03A
 
 
 # ∆ JANGAN LUPA ∆
-# ubah mid bot di
+ubah mid bot di
 -shiro.py
 -admin.json
 -staff.json
