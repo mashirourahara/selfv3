@@ -52,6 +52,14 @@ SHIRO Self.v.03A
 # $ cd Protect-SelfBot
 # $ python3 pro-self.py
 
+
+# ∆ JANGAN LUPA ∆
+# ubah mid bot di
+-shiro.py
+-admin.json
+-staff.json
+
+
 # Cara Menjalankan Bot Kembali :
 
 # Di C9 :
